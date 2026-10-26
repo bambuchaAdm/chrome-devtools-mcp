@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.12.1](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v1.12.0...chrome-devtools-mcp-v1.12.1) (2026-10-26)
+
+
+### 🛠️ Fixes
+
+* **console:** stop resolving a cyclic Error.cause chain after 10 causes ([#3338](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/3338)) ([172656a](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/172656ab38a4ff666f88dc9032fa841834a69495))
+
 ## [1.12.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v1.11.0...chrome-devtools-mcp-v1.12.0) (2026-10-22)
 
 
